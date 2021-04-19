@@ -1,6 +1,6 @@
 
-============================= test session starts =============================
-platform win32 -- Python 3.8.6, pytest-6.2.3, py-1.10.0, pluggy-0.13.1 -- C:\Users\darya.moshkevich\PycharmProjects\pythonProject4\venv\Scripts\python.exe
+============================= test session starts =============================<br />
+platform win32 -- Python 3.8.6, pytest-6.2.3, py-1.10.0, pluggy-0.13.1 -- C:\Users\darya.moshkevich\PycharmProjects\pythonProject4\venv\Scripts\python.exe<br />
 cachedir: .pytest_cache<br />
 rootdir: C:\Users\darya.moshkevich\PycharmProjects\pythonProject4<br />
 collecting ... collected 3 items<br />
