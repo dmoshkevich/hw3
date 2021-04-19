@@ -49,6 +49,7 @@ def test_what_is_year_now_value_error(urlopen_mock):
         what_is_year_now.what_is_year_now()
 
 
+@patch('urllib.request.urlopen')
 def test_what_is_year_now_alternative_format(urlopen_mock):
     test_mock = MagicMock()
     test_mock.getcode.return_value = 200
